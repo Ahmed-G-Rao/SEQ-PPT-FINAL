@@ -1,0 +1,20 @@
+What is Test Coverage?
+
+Test coverage is defined as a technique which 
+determines whether our test cases are actually 
+covering the application code and how much code 
+is exercised when we run those test cases.
+
+If there are 10 requirements and 100 tests 
+created and if 90 tests are executed then 
+test coverage is 90%. Now, based on this metric, 
+testers can create additional test cases for remaining tests.
+
+PICT	==> Pairwise Independent CT
+FOCUS	==> Functional coverage Unified Solution
+ACTS 	==> Advanced CT System provided by NIST(agency of US Government.)
+
+https://www.softwaretestinghelp.com/what-is-pairwise-testing/
+https://personal.utdallas.edu/~ewong/SE6367/03-Lecture/29-A-Combinatorial-Testing-by-Kuhn.pdf
+https://www.testrisk.com/2013/11/combinatorial-testing.html
+https://crosslaketech.com/how-to-use-pairwise-testing/
